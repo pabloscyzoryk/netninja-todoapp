@@ -1,2 +1,5 @@
-# netninja-todoapp
-Todo List from Moden Javascript course by The Net Ninja. I also added couple of nice things.
+# Todo List
+I added:
+-Confetti on checking todo
+-Saving todos to local storage
+-Checking finished todos
